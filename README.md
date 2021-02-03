@@ -21,7 +21,7 @@ You can download its related guidance with this free guide/eBook (2nd Edition):
 The modernization with Windows Containers significantly improves the deployments for DevOps, without having to change the app's architecture or C# code.
 
 The sample apps are simple web apps for the internal backoffice of an eShop so employees can update the Product Catalog. 
-Both apps are therefore simple CRUD web application to update data into a SQL Server database. 
+Both apps are therefore simple CRUD web application to update data into a SQL Server database.
 
 See a screenshots of both apps below.
 
